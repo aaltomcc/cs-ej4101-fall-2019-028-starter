@@ -5,5 +5,5 @@
  T. Anton Puolakka
 
  Enjoy!
-
-
+ 
+ Bored to wait instructions for advanced so I want to see automatic publishing of the web site with starters. Working (yes/no)?
