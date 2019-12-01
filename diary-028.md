@@ -13,11 +13,6 @@ I admit my above mentioned viewpoint is not exactly complete and possibly somewh
 
 I did not expect to see much new nor that the course would be too challenging to me. And I was right. Yet the amount of information and vast resources are surely something I value a lot. Of course I can git myself around but the amount of git wizardry available through the course material is impressive. Surely this is valuable.
 
-
-
-
-
-
 So, simply put:
 * prime oneself on tech issues and high-level theory related to devOps
 * correct the vocabulary (to be able to communicate effectively with nerds)
@@ -34,21 +29,21 @@ Learned
 * That the videos talk about waterfall style in such a way that it's value is not understood (V model is needed, guys, but not on your ecommerce site!)
 
 
-Most challenging part
+Most Challenging Part
 =====================
-As the instructions for the starter course talked in general manner about pusblishing through GitHub pages it was only after advanced course instrcutions indirectly told me that GitHub Pages is a publishing tool. With this tiny little hint I got my page published. A big difference whether it is 'GitHub pages' or 'GitHub Pages'.
+As the instructions for the starter course talked in general manner about pusblishing through GitHub pages it was only after advanced course instrcutions indirectly told me that GitHub Pages is a publishing tool. With this tiny little hint I got my page published. A big difference whether it is 'GitHub pages' or 'GitHub Pages' in the instructions.
 
 2nd place goes to GitHub portal the logic of which is far from my routine understanding. I get things done but I am not exactly sure when and how all the merge requests and pull requests come from (as options to be chosen by the portal user). However, by the end of the course I am pretty sure this is a minor detail. 
 
 
-The next steps
-==============
+Next Steps
+==========
 Something I'd really would like to know about is being a GitHub admin for a very busy project. And not only to keep all the incoming requests straight but to cherry-pick and do some other bg decisions that are not aligned with all the intentios of all the contributors. I am happy this is not part of the course as I expect that kind of a job to be so tedious that I'd rather see me getting some wage for that kind of stuff.
 
 Docker stuff... where was that? Hopefully there is some steps with that in the advanced project. Yes, it is only very sexy a version of Make but it starts to be so ubiqitous that intermediate skills on it start to be elementary.
 
 
-The course overall feeling
-==========================
+Course Overall Feeling
+======================
 I'd be happy to do more courses like this. The total support for online is a good thing.
 
