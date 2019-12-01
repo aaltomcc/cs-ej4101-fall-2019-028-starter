@@ -2,6 +2,8 @@
 About
 =====
 
+[Mandatory link.](http://google.com)
+
 The name is Anton Puolakka and in the professional world I am a digital strategist who can and has to deal with issues related to ISO OSI layers ranging from 3 to 8.
 
 The domain in which I am applying my skills in is electric boating and the expected impact is no less than to revolutionarize the experience of free-time recreational boating.
